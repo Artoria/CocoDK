@@ -1,0 +1,2 @@
+1.cpp: In function 'bool FrameFunc()':
+1.cpp:80:35: error: argument of type 'bool (HGE::)(int) {aka bool (HGE::)(int)}' does not match 'bool'
